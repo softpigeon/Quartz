@@ -1,3 +1,10 @@
+---
+title: Gnome
+draft: true
+tags:
+  - Ancestry
+  - Gnome
+---
 ==**validate when timeline post apoc confirmed==**
 **==rewrite to make them a more recent arrival==**
 **==Low numbers of gnomes coming over rarest species?==**  

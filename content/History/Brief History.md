@@ -1,3 +1,9 @@
+---
+title: Brief History
+draft: true
+tags:
+  - History
+---
 Earth a few centuries after an apocalyptic nuclear war wiped out the majority of the [[Human]] population.
 
 Humans mostly formed small isolated communities constructed out of the remains of large emergency military compounds and bunkers to survive, some remained out in the world at large.

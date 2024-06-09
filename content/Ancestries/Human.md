@@ -1,1 +1,9 @@
+---
+title: Human
+draft: true
+tags:
+  - "#Ancestry"
+  - Human
+---
+
 An ancient race that once populated every corner of the planet at one point having survived the fallout of an apocalyptic nuclear war and subsequent magic cataclysm. They are now reclusive, and secretive species most are content to stay in their few highly guarded communities of iron and lead. Humans are the descendants of those that were protected from magic’s appearance. The most technologically advanced race with communities utilising electricity from renewable sources, The Human communities around the world have been able to establish contact with each other using old world communication technology however each community is self governing. These communities guard secrets and technologies from the old world that they rarely share unless absolutely necessary. Some medical knowledge that can’t be abused is all that has been shared so far, however it is known that vast knowledge and power is held in their archives (including the knowledge that some of the races are descendants of those humans changed by magic, this knowledge is not known by the world at large and even most humans are unaware of it now). Some humans do leave the communities although those who are leaving for themselves and not as “agents” for the community have their knowledge of secrets and technology wiped by Magi of the community. Those who leave without doing such are hunted down and brought back for prosecution, however some few have evaded capture and exist with their knowledge. While some humans are still sceptical about magic, this tends to be an in-built prejudice from families with stories of the events of the cataclysm, it has now become a part of human life with many researchers and engineers seeing it as another tool to utilise scientifically. Magic doesn’t permeate human communities as deeply due to the difficulties integrating it into the metals used throughout.

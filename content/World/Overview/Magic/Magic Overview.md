@@ -1,3 +1,11 @@
+---
+title: Magic Overview
+draft: true
+tags:
+  - World
+  - Magic
+---
+
 First appeared in a near cataclysmic event that shattered and remade the entire world. All races have an innate affinity and aptitude to this magic that now permeates the world with the exception of Humans. Humans are the descendants of those who remained protected from the magic storm by their metal towns and thus have no in-built connection, although through various means can utilise magic (e.g. intense study, meditation, a connection formed individually or inherited from ancestors etc.).
 
 The form magic takes depends on the individual, while there doesn’t appear to be a biological predisposition for a particular expression of magic, one’s culture and mental patterns tends to breed a particular aptitude for a certain expression

@@ -1,3 +1,11 @@
+---
+title: Notes
+draft: true
+tags:
+  - World
+  - Notes
+---
+
 Currently thinking of using a Taiga region, possibly Somewhere in Canada or Alaska.
 
 A fledgling Kingdom that has been established in the last 50 years and incorporated the surrounding area.

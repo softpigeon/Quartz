@@ -1,3 +1,11 @@
+---
+title: Technology Overview
+draft: true
+tags:
+  - World
+  - Technology
+---
+
 Exact tech level needs fleshing out
 
 Black powder weaponry is not common but knowledge is known that people will know what they are when they see them. Ammunition will be scarce to find outside of Big Towns/Cities.
