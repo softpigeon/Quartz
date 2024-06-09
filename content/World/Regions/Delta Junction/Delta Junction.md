@@ -1,5 +1,5 @@
 ---
-title: Monarchy of Delta Junction
+title: Delta Junction
 tags:
   - World
 ---
