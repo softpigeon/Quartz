@@ -5,6 +5,8 @@ tags:
 ---
 Setting for Earth Based Fantasy Post Apocalypse RPG game
 
+Initial publish to test and setup website more to come
+
 # Ancestries
 
 ## Human Descent
