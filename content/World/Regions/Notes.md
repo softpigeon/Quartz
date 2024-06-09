@@ -1,6 +1,5 @@
 ---
 title: Notes
-draft: true
 tags:
   - World
   - Notes

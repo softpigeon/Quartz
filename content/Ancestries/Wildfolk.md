@@ -1,6 +1,5 @@
 ---
 title: Wildfolk
-draft: true
 tags:
   - Ancestry
   - Wildfolk

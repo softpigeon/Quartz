@@ -1,6 +1,5 @@
 ---
 title: Elf
-draft: true
 tags:
   - Ancestry
   - Elf

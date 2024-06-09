@@ -1,6 +1,5 @@
 ---
 title: Goblin
-draft: true
 tags:
   - Ancestry
   - Goblin

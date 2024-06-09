@@ -1,6 +1,5 @@
 ---
 title: Timeline
-draft: true
 tags:
   - "#History"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Human
-draft: true
 tags:
   - "#Ancestry"
   - Human

@@ -1,9 +1,10 @@
 ---
 title: Fantasy Post Apocalypse(s)
-draft: true
 tags:
-  - index
+  - Index
 ---
+Setting for Earth Based Fantasy Post Apocalypse RPG game
+
 # Ancestries
 
 ## Human Descent
@@ -29,7 +30,8 @@ tags:
 
 # World
 
-- [[Magic Overview|Magic]]
-- [[Religions Overview|Religion]]
-- [[Technology Overview|Technology]]
-- [[Notes|Game Region]]
+- Overview
+	- [[Magic Overview|Magic]]
+	- [[Religions Overview|Religion]]
+	- [[Technology Overview|Technology]]
+- [[Delta Junction]]

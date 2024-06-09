@@ -1,6 +1,5 @@
 ---
 title: Monarchy of Delta Junction
-draft: true
 tags:
   - World
   - Factions

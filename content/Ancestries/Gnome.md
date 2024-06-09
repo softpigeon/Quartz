@@ -1,6 +1,5 @@
 ---
 title: Gnome
-draft: true
 tags:
   - Ancestry
   - Gnome

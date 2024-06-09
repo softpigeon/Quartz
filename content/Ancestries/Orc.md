@@ -1,6 +1,5 @@
 ---
 title: Orc
-draft: true
 tags:
   - Ancestry
   - Orc

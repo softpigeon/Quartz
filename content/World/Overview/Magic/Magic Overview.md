@@ -1,6 +1,5 @@
 ---
 title: Magic Overview
-draft: true
 tags:
   - World
   - Magic

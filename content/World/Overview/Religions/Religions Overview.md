@@ -1,6 +1,5 @@
 ---
 title: Religions Overview
-draft: true
 tags:
   - World
   - Religion

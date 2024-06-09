@@ -1,6 +1,5 @@
 ---
 title: Brief History
-draft: true
 tags:
   - History
 ---

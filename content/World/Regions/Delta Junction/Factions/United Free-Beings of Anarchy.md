@@ -1,6 +1,5 @@
 ---
 title: United Free-Beings of Anarchy
-draft: true
 tags:
   - World
   - Factions

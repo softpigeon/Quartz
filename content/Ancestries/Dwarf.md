@@ -1,6 +1,5 @@
 ---
 title: Dwarf
-draft: true
 tags:
   - Ancestry
   - Dwarf

@@ -1,6 +1,5 @@
 ---
 title: Halfling
-draft: true
 tags:
   - Ancestry
   - Halfling

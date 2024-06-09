@@ -1,6 +1,5 @@
 ---
 title: Collective Communities of Humanity
-draft: true
 tags:
   - World
   - Factions

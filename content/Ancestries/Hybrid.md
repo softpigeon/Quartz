@@ -1,6 +1,5 @@
 ---
 title: Hybrid
-draft: true
 tags:
   - Ancestry
   - Hybrid
